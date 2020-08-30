@@ -16,6 +16,7 @@ git push                      //推送至远程仓库
 
 使用方法：https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径
 例如：
+https://cdn.jsdelivr.net/gh/TYblog/CDN/images/dark.jpg
 
 https://cdn.jsdelivr.net/gh/TRHX/CDN-for-itrhx.com@1.0/images/trhx.png
 https://cdn.jsdelivr.net/gh/TRHX/CDN-for-itrhx.com@2.0.1/css/style.css
