@@ -214,7 +214,7 @@ $(function() {
 				for(var key in jnewest){
 					let src = jnewest[key].src,
 						subSrc = src.substr(18,src.length);
-					p1box.append('<article class="news-window wow fadeInUp hentry" data-wow-delay="0.1s"><div class="news-window-inside"><span class="news-window-img"><a href="'+src+'"target="_blank"><img class="lazy" src="https://img.2broear.com/'+jnewest[key].img+'"/></a></span><div class="news-inside-content"><!-- hAtom -entry-more --><h2 class="entry-title"><a href="'+src+'" title="'+jnewest[key].title+'">'+jnewest[key].title+'</a></h2><span class="news-core_area entry-content"><p>'+jnewest[key].desc+'</p></span><span class="news-personal_stand" unselectable="on"><dd>'+jnewest[key].ps+'</dd></span><div id="news-tail_info"><span class="article-type">'+jnewest[key].classify+' 源自 <a href="'+jnewest[key].orgsrc+'" target="_blank">'+jnewest[key].author+'</a></span><ul class="post-info"><li><span class="valine-comment-count" data-xid="'+subSrc+'"></span></li><!--<li id="post-level"><i class="icom"></i> LV - '+jnewest[key].lv+'</li>--><li id="post-date" class="updated"><i class="icom"></i> '+jnewest[key].date+' </li></ul></div></div></div></article>');
+					p1box.append('<article class="news-window wow fadeInUp hentry" data-wow-delay="0.1s"><div class="news-window-inside"><span class="news-window-img"><a href="'+src+'"target="_blank"><img class="lazy" src="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/'+jnewest[key].img+'"/></a></span><div class="news-inside-content"><!-- hAtom -entry-more --><h2 class="entry-title"><a href="'+src+'" title="'+jnewest[key].title+'">'+jnewest[key].title+'</a></h2><span class="news-core_area entry-content"><p>'+jnewest[key].desc+'</p></span><span class="news-personal_stand" unselectable="on"><dd>'+jnewest[key].ps+'</dd></span><div id="news-tail_info"><span class="article-type">'+jnewest[key].classify+' 源自 <a href="'+jnewest[key].orgsrc+'" target="_blank">'+jnewest[key].author+'</a></span><ul class="post-info"><li><span class="valine-comment-count" data-xid="'+subSrc+'"></span></li><!--<li id="post-level"><i class="icom"></i> LV - '+jnewest[key].lv+'</li>--><li id="post-date" class="updated"><i class="icom"></i> '+jnewest[key].date+' </li></ul></div></div></div></article>');
 				}
 			};
 			if($('.recommendation').is(':visible')){
@@ -266,13 +266,13 @@ $(function() {
 	var sicon = document.createElement( "link" );
 		sicon.rel = "icon";
 		sicon.type = "image/x-icon";
-		sicon.href = 'https://img.2broear.com/favicons/2B-favicon.ico';
+		sicon.href = 'https://mpsblog.shop/yun.ico';
 	document.head.insertBefore( sicon, document.head.childNodes[10]);
 	var sicona = document.createElement( "link" );
 		sicona.rel = "apple-touch-icon";
 		sicona.type = "image/x-icon";
 		sicona.size = "48x48";
-		sicona.href = 'https://img.2broear.com/favicons/2B-favicon.ico';
+		sicona.href = 'https://mpsblog.shop/yun.ico';
 	document.head.insertBefore( sicona, document.head.childNodes[10]);
 
 	var scssa = document.createElement( "link" );
