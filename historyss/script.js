@@ -61,7 +61,7 @@ function xuanran_time_line(data=[], selector=".time-line") {
     time_line.innerHTML = '';//清空时间线
     for(let item in _group_month){
         html = '<li class="tl-header">\n' +
-            '    <h2>'+item+'</h2>\n' +
+            '    <a>'+item+'</a>\n' +
             '</li>' +
             '<ul class="tl-body">';
 
