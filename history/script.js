@@ -24,7 +24,7 @@ function data2dl(data){
             arr.push({
                 title: split[pure],
                 link:
-                    'https://www.google.com/search?q='+
+                    'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd='+
                     (data[item].year+"").replace("-", "前")+"年"
                     +data[item].month+"月"
                     +data[item].day+"日 "+split[pure].substring(0, 38),
