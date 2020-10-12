@@ -24,7 +24,7 @@ function data2dl(data){
             arr.push({
                 title: split[pure],
                 link:
-                    'https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd='+
+                    'https://cn.bing.com/search?q='+
                     (data[item].year+"").replace("-", "前")+"年"
                     +data[item].month+"月"
                     +data[item].day+"日 "+split[pure].substring(0, 38),
@@ -61,7 +61,7 @@ function xuanran_time_line(data=[], selector=".time-line") {
     time_line.innerHTML = '';//清空时间线
     for(let item in _group_month){
         html = '<li class="tl-header">\n' +
-            '    <a>'+item+'</a>\n' +
+            '    <h2>'+item+'</h2>\n' +
             '</li>' +
             '<ul class="tl-body">';
 
