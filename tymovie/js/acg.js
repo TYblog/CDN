@@ -83,9 +83,9 @@ $(function(){
 			//console.log(janime[i].img);  //遍历输出每个imgsrc
 			anime.before('<div class="inbox flexboxes"><div class="inbox-headside flexboxes"><span class="author">'
 						 +janime[i].subtitle+
-						 '</span><img class="bg lazy" data-original="https://img.2broear.com/acg/1/'
+						 '</span><img class="bg lazy" data-original="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/acg/1/" src="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/acg/1/' 
 						 +janime[i].id+
-						 '.png" /><img class="lazy" data-original="https://img.2broear.com/acg/1/'
+						 '.png" /><img class="lazy" data-original="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/acg/1/" src="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/acg/1/'
 						 +janime[i].id+
 						 '.png" /></div><div class="inbox-aside"><span class="lowside-title"><h4><a href="'
 						 +janime[i].src+
@@ -104,9 +104,9 @@ $(function(){
 		for(var i in jcomic){
 			comic.before('<div class="inbox flexboxes"><div class="inbox-headside flexboxes"><span class="author">'
 						 +jcomic[i].subtitle+
-						 '</span><img class="bg lazy" data-original="https://img.2broear.com/acg/4/'
+						 '</span><img class="bg lazy" data-original="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/acg/4/" src="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/acg/4/'
 						 +jcomic[i].id+
-						 '.jpg" /><img class="lazy" data-original="https://img.2broear.com/acg/4/'
+						 '.jpg" /><img class="lazy" data-original="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/acg/4/" src="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/acg/4/'
 						 +jcomic[i].id+
 						 '.jpg" /></div><div class="inbox-aside"><span class="lowside-title"><h4><a href="'
 						 +jcomic[i].src+
@@ -120,9 +120,9 @@ $(function(){
 		for(var i in jmovie){
 			movie.before('<div class="inbox flexboxes"><div class="inbox-headside flexboxes"><span class="author">'
 						 +jmovie[i].subtitle+
-						 '</span><img class="bg lazy" data-original="https://img.2broear.com/acg/2/'
+						 '</span><img class="bg lazy" data-original="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/acg/2/" src="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/acg/2/'
 						 +jmovie[i].id+
-						 '.jpg" /><img class="lazy" data-original="https://img.2broear.com/acg/2/'
+						 '.jpg" /><img class="lazy" data-original="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/acg/2/" src="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/acg/2/'
 						 +jmovie[i].id+
 						 '.jpg" /></div><div class="inbox-aside"><span class="lowside-title"><h4><a href="'
 						 +jmovie[i].src+
@@ -136,9 +136,9 @@ $(function(){
 		for(var i in jtv){
 			tv.before('<div class="inbox flexboxes"><div class="inbox-headside flexboxes"><span class="author">'
 						 +jtv[i].subtitle+
-						 '</span><img class="bg lazy" data-original="https://img.2broear.com/acg/3/'
+						 '</span><img class="bg lazy" data-original="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/acg/3/" src="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/acg/3/'
 						 +jtv[i].id+
-						 '.jpg" /><img class="lazy" data-original="https://img.2broear.com/acg/3/'
+						 '.jpg" /><img class="lazy" data-original="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/acg/3/" src="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/acg/3/'
 						 +jtv[i].id+
 						 '.jpg" /></div><div class="inbox-aside"><span class="lowside-title"><h4><a href="'
 						 +jtv[i].src+
@@ -154,9 +154,9 @@ $(function(){
 		for(var i in jgame){
 			game.before('<div class="inbox flexboxes"><div class="inbox-headside flexboxes"><span class="author">'
 						 +jgame[i].subtitle+
-						 '</span><img class="bg lazy" data-original="https://img.2broear.com/acg/5/'
+						 '</span><img class="bg lazy" data-original="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/acg/5/" src="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/acg/5/'
 						 +jgame[i].id+
-						 '.jpg" /><img class="lazy" data-original="https://img.2broear.com/acg/5/'
+						 '.jpg" /><img class="lazy" data-original="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/acg/5/" src="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/acg/5/'
 						 +jgame[i].id+
 						 '.jpg" /></div><div class="inbox-aside"><span class="lowside-title"><h4><a href="https://store.steampowered.com/app/'
 						 +jgame[i].src+

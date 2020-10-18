@@ -1,66 +1,66 @@
 var janime = [{
 		"id" :1,
-		"src" :"//pan.baidu.com/s/1PIdOf4HkkI2Ak4UlNDWlPA",
+		"src" :"https://www.pan.baidu.com/s/1PIdOf4HkkI2Ak4UlNDWlPA",
 		"title" :"幽灵公主",
 		"subtitle" :"もののけ姫",
 		"description" : "提取码：4g95）为了拯救危难中的村民，阿斯达卡的右手中了凶煞神的诅咒。他卡只好离开亲人往西方流浪以寻找解除诅咒的方法。旅途中他遇到了由幻姬大人带领的.."
 	}, {
 		"id" :2,
-		"src" :"//iqiyi.com/v_19rsmpr66o.html",
+		"src" :"https://www.iqiyi.com/v_19rsmpr66o.html",
 		"title" :"千与千寻",
 		"subtitle" :"千と千尋の神隠し",
 		"description" : "寻和爸爸妈妈一同驱车前往新家，在郊外的小路上不慎进入了神秘的隧道—他们去到了另外一个诡异世界一个中世纪的小镇。远处飘来食物的香味，.."
 	}, {
 		"id" :3,
-		"src" :"//pan.baidu.com/s/1AV35KhyULaAuDeuaw0EhpA",
+		"src" :"https://www.pan.baidu.com/s/1AV35KhyULaAuDeuaw0EhpA",
 		"title" :"起风了",
 		"subtitle" :"宫 · 風立ちぬ",
 		"description" : "提取码：vwp2）那是一个动荡的年代，战争、饥饿、疾病、天灾，死神的阴影笼罩全球，却无法遮挡心头闪现的梦想和希望的光芒。平凡的日本少年堀越二郎 迷恋游弋长空的飞机.."
 	}, {
 		"id" :4,
-		"src" :"//iqiyi.com/v_19rr7r4y5g.html",
+		"src" :"https://www.iqiyi.com/v_19rr7r4y5g.html",
 		"title" :"龙猫",
 		"subtitle" :"となりのトトロ",
 		"description" : "小月的母亲生病住院了，父亲带着她与四岁的妹妹小梅到乡间的居住。她们对那里的环境都感到十分新奇，也发现了很多有趣的事情。她们遇到了.."
 	}, {
 		"id" :5,
-		"src" :"//baidu.com/s?wd=天空之城",
+		"src" :"https://www.baidu.com/s?wd=天空之城",
 		"title" :"天空之城",
 		"subtitle" :"天空の城ラピュタ",
 		"description" : "古老帝国拉比达是一座漂浮在空中的巨大的机器岛，传说那里已经无人居住，蕴藏着巨大的财富。因此，无论军方还是海盗，都在找寻着这座传说中的飞行岛。矿工帕克这天偶遇拉达比继承人希达.."
 	}, {
 		"id" :6,
-		"src" :"//baidu.com/s?wd=风之谷",
+		"src" :"https://www.baidu.com/s?wd=风之谷",
 		"title" :"风之谷",
 		"subtitle" :"風の谷のナウシカ",
 		"description" : "工业文明的高度发展，却最终带来灾难，一场为期7天的虫族毁灭战争摧毁了人类文明。一千年后，工业文明遗留下来的症结仍在困扰这个星球。带有强烈毒性的植物组成了令人望而却步的“腐海”森林.."
 	}, {
 		"id" :7,
-		"src" :"//pan.baidu.com/s/1NOPzBoRQGIke43NqPaOJ4A",
+		"src" :"https://www.pan.baidu.com/s/1NOPzBoRQGIke43NqPaOJ4A",
 		"title" :"红猪",
 		"subtitle" :"宫 · 紅の豚",
 		"description" : "提取码：8kfr）罗森是一战中意大利空军的王牌飞行员，但却被施了魔法变了一头猪。虽然变了猪，但罗森还是继续他的老本行，成了一位赏金猎人，专门打击在亚地里亚海空域作恶的空中劫匪.."
 	}, {
 		"id" :8,
-		"src" :"//pan.baidu.com/s/1eDczJhklFve5z78u5tlQhQ",
+		"src" :"https://www.pan.baidu.com/s/1eDczJhklFve5z78u5tlQhQ",
 		"title" :"哈尔的移动城堡",
 		"subtitle" :"ハウルの動く城",
 		"description" : "提取码：9a3i）继母因无力负担生活，将苏菲和她的两个妹妹都送到了制帽店去当学徒。两个妹妹很快先后就离开了制帽店去追寻各自的梦想，只有苏菲坚持了下来。一天，小镇旁边来了一座移动堡垒.."
 	}, {
 		"id" :9,
-		"src" :"//iqiyi.com/v_19rtszgos4.html",
+		"src" :"https://www.iqiyi.com/v_19rtszgos4.html",
 		"title" :"罗小黑战记",
 		"subtitle" :"The Legend of Hei",
 		"description" : "在熙攘的人类世界里，很多妖精隐匿其中，他们与人类相安无事地生活着。猫妖罗小黑因为家园被破坏，开始了它的流浪之旅。这场旅途中惺惺相惜的妖精同类与和谐包容的人类伙伴相继出现.."
 	}, {
 		"id" :0,
-		"src" :"//iqiyi.com/v_19rrcuke28.html",
+		"src" :"https://www.iqiyi.com/v_19rrcuke28.html",
 		"title" :"哪吒之魔童降世",
 		"subtitle" :"哪吒降世",
 		"description" : "天地灵气孕育出一颗能量巨大的混元珠，元始天尊将混元珠提炼成灵珠和魔丸，灵珠投胎为人，助周伐纣时可堪大用；而魔丸则会诞出魔王，为祸人间。元始天尊启动了天劫咒语，3年后天雷将会降临.."
 	}, {
 		"id" :10,
-		"src" :"//iqiyi.com/v_19rr575vxk.html",
+		"src" :"https://www.iqiyi.com/v_19rr575vxk.html",
 		"title" :"白蛇：缘起",
 		"subtitle" :"White Snake",
 		"description" : "晚唐年间，国师发动民众大量捕蛇。前去刺杀国师的白蛇意外失忆，被捕蛇村少年阿宣救下。为帮助少女找回记忆，两人踏上了一段冒险旅程。过程中两人感情迅速升温，但少女蛇妖的身份也逐渐显露.."
@@ -68,85 +68,85 @@ var janime = [{
 
 jcomic = [{
 		"id" :5,
-		"src" :"//www.bilibili.com/bangumi/play/ss1177",
+		"src" :"https://www.bilibili.com/bangumi/play/ss1177",
 		"title" :"CLANNAD",
 		"subtitle" :" -クラナド-",
 		"description" : "冈崎朋也因家庭因素成为不良少年，一直与春原阳平为伍，在光坂高校过着潦倒的生活，但希望终有一天能够离开所在的小镇。某一天，他在学校坡道前发现了一个止步不前的女孩.."
 	}, {
 		"id" :4,
-		"src" :"//www.bilibili.com/bangumi/play/ss3756/",
+		"src" :"https://www.bilibili.com/bangumi/play/ss3756/",
 		"title" :"百变小樱魔术卡",
 		"subtitle" :"カードキャプターさくら",
 		"description" : "木之本樱，是擅长体育的小学4年级学生。某天，小樱从学校回家，在平常都没有人的地下书房发现似乎有什么人的样子。小樱走下去一看，那里有一本闪耀着金色光芒的书。里面装有牌，然而.."
 	}, {
 		"id" :6,
-		"src" :"//www.bilibili.com/bangumi/play/ss28324",
+		"src" :"https://www.bilibili.com/bangumi/play/ss28324",
 		"title" :"犬夜叉",
 		"subtitle" :"いぬやしゃ",
 		"description" : "《犬夜叉》是根据日本漫画家高桥留美子所著同名作品改编的电视动画，故事讲述半妖少年——犬夜叉和穿越时空的少女——日暮戈薇，以及法师弥勒、驱魔师珊瑚、叉尾妖猫云母、小狐妖七宝.."
 	}, {
 		"id" :17,
-		"src" :"//www.bilibili.com/bangumi/play/ep321808",
+		"src" :"https://www.bilibili.com/bangumi/play/ep321808",
 		"title" :"名侦探柯南",
 		"subtitle" :"名探偵コナン",
 		"description" : "主角工藤新一原本是一位颇具名声的高中生侦探，在目击黑暗组织的地下交易后，正准备追踪时却被突袭击昏，并被灌下代号为“APTX4869”的不明药物。后来虽然幸免于死，但身体就此缩小为小学时期的模样.."
 	}, {
 		"id" :3,
-		"src" :"//www.bilibili.com/video/av1372685",
+		"src" :"https://www.bilibili.com/video/av1372685",
 		"title" :"马达加斯加的企鹅",
 		"subtitle" :"The Penguins of Madagascar",
 		"description" : "当Alex它们还在非洲度假时，企鹅四贱客早已回到了纽约动物园，并且继续执行它们的秘密任务，并帮助动物园里的动物们。在动物园里，它们认识了一些朋友，而且在马达加斯加自称为王.."
 	}, {
 		"id" :8,
-		"src" :"//www.bilibili.com/bangumi/play/ss1768",
+		"src" :"https://www.bilibili.com/bangumi/play/ss1768",
 		"title" :"飞哥与小佛",
 		"subtitle" :"Phineas and Ferb",
 		"description" : "拥有无比想像力的飞哥小佛却有个爱告密的姐姐！凯蒂丝总是想要向妈妈证明弟弟们每天都在做惊人的事情，但往往无法成功…而飞哥小佛的宠物鸭嘴兽泰瑞，人人都说：“它只是只鸭嘴兽，它什么都不会.."
 	}, {
 		"id" :18,
-		"src" :"//www.bilibili.com/bangumi/play/ep48038",
+		"src" :"https://www.bilibili.com/bangumi/play/ep48038",
 		"title" :"超级酷乐猫",
 		"subtitle" :"サイボーグクロちゃん",
 		"description" : "酷乐原本是一只从小就失去父母的流浪猫，后来与其他流浪猫不和，离开流浪猫群后意外的被俩个老人饲养。后又因被妄想统治世界的刚博士抓走进行了改造，成为了机械猫。酷乐的传奇生活就此展开.."
 	}, {
 		"id" :7,
-		"src" :"//www.bilibili.com/bangumi/play/ss1768",
+		"src" :"https://www.bilibili.com/bangumi/play/ss1768",
 		"title" :"魔角侦探",
 		"subtitle" :"Mojospy",
 		"description" : "在金枪鱼小镇上，少年齐乐天与伙伴们一同破案，击败邪恶的故事。该片其优秀的制作团队，真实鲜活的动画形象和迭宕起伏的故事情节，让观众感受到中国动画的无限魅力.."
 	}, {
 		"id" :9,
-		"src" :"//www.bilibili.com/video/BV1Dx411z7Ai",
+		"src" :"https://www.bilibili.com/video/BV1Dx411z7Ai",
 		"title" :"神厨小福贵",
 		"subtitle" :"",/*Magic Boy Kitchener*/
 		"description" : "该剧讲述了清末八国联军入京，慈禧太后携光绪皇帝等人仓皇西逃。西行路上，由于御膳大厨被小李公公谋害掉入悬崖失踪，慈禧只得命太监小李子在当地挑选厨师.."
 	}, {
 		"id" :10,
-		"src" :"//www.bilibili.com/video/BV1At4y127fv",
+		"src" :"https://www.bilibili.com/video/BV1At4y127fv",
 		"title" :"中华小子",
 		"subtitle" :"",/*Shaolin Wuzang*/
 		"description" : "十七世纪的中国，恐怖气氛席卷了河南，一个被囚千年的黑狐恶魔逃了出来，为了复仇，他到处制造灾难，妄图征服世界.."
 	}, {
 		"id" :14,
-		"src" :"//www.bilibili.com/video/BV1At4y127fv",
+		"src" :"https://www.bilibili.com/video/BV1At4y127fv",
 		"title" :"神兵小将",
 		"subtitle" :"",/*Shenbing Kids*/
 		"description" : "动画片讲述了少年南宫问天与他的同伴们除暴安良为民除害、经过正邪斗争，成为小英雄的历险故事.."
 	}, {
 		"id" :11,
-		"src" :"//www.bilibili.com/video/BV1At41167aj",
+		"src" :"https://www.bilibili.com/video/BV1At41167aj",
 		"title" :"围棋少年",
 		"subtitle" :"",
 		"description" : "明朝末年江南沿海地区倭寇横行，围棋棋坛也面临正义的围棋精神和邪恶的围棋势力发生的冲突。江流儿的父亲江灵运身为朝廷密派的朝廷大员带着江流儿到江南暗中调查通倭事件，江流儿被临时寄养在凌云寺.."
 	}, {
 		"id" :12,
-		"src" :"//www.bilibili.com/video/BV1D4411b7TJ",
+		"src" :"https://www.bilibili.com/video/BV1D4411b7TJ",
 		"title" :"象棋王",
 		"subtitle" :"",
 		"description" : "描述一个叫聂无悔的少年（“举棋无悔”之意，表示一个棋手勇往直前、不后悔的信念），从根本不会下棋到热爱棋艺的历程，以一颗永不言败的心，勤奋向上，勇往直前，不断学习、克服万难，深造棋艺.."
 	}, {
 		"id" :15,
-		"src" :"//www.bilibili.com/video/BV12x411K7di",
+		"src" :"https://www.bilibili.com/video/BV12x411K7di",
 		"title" :"十二生肖闯江湖",
 		"subtitle" :"",
 		"description" : "远古时期，天地一片混沌，还没有完全成形，人世间一片混乱、骚动。人间界形成之初，人类还没有计时、计年的观念，人们总是忘记自己出生在哪一年，过了多少岁，完全没有辈分的观念.."
@@ -154,254 +154,254 @@ jcomic = [{
 
 jmovie = [{
 		"id" :10,
-		"src" :"//iqiyi.com/v_19rra0h3wg.html",
+		"src" :"https://www.iqiyi.com/v_19rra0h3wg.html",
 		"title" :"肖申克的救赎",
 		"stars" : "★★★★☆",
 		"subtitle" :"The Shawshank Redemption",
 		"description" : "[ ★★★★★ ] 20世纪40年代末，小有成就的青年银行家安迪因涉嫌杀害妻子及她的情人而锒铛入狱。在这座名为肖申克的监狱内，希望似乎虚无缥缈，终身监禁的惩罚无疑注定了安迪接下来灰暗绝望的人生.."
 	}, {
 		"id" :"9+",
-		"src" :"//iqiyi.com/v_19rrk3nlys.html",
+		"src" :"https://www.iqiyi.com/v_19rrk3nlys.html",
 		"title" :"当幸福来敲门",
 		"subtitle" :"The Pursuit of Happyness",
 		"description" : "[ ★★★★★ ] 克里斯-加纳用尽全部积蓄买下了高科技治疗仪，到处向医院推销，可是价格高昂，接受的人不多。就算他多努力都无法提供一个良好的生活环境给妻儿，妻子最终选择离开家。从此他带着儿子.."
 	}, {
 		"id" :"15+",
-		"src" :"//v.qq.com/x/cover/ugkttnywlcyooqz.html",
+		"src" :"https://v.qq.com/x/cover/ugkttnywlcyooqz.html",
 		"title" :"弱点",
 		"subtitle" :"The Blind Side",
 		"description" : "[ ★★★★★ ] 黑人奥赫自幼父母离异，无家可归。不过，木讷的他却因为极强的身体条件和运动天赋，幸运地进入了一家孤儿院。虽然，他科科零分，但是一些细节却让他显得与众不同。一次排球比赛后.."
 	}, {
 		"id" :11,
-		"src" :"//iqiyi.com/v_19rr7pgccs.html",
+		"src" :"https://www.iqiyi.com/v_19rr7pgccs.html",
 		"title" :"藩篱",
 		"subtitle" :"Fences",
 		"description" : "[ ★★★★★ ] 美国黑人特洛伊曾是一名棒球希望新星，却因为一次意外的抢劫杀人案而入狱，当时美国职业棒球大联盟种族隔离政策还未完全废除，黑人登场机会很少，加上特洛伊出狱后年纪也大了.."
 	}, {
 		"id" :28,
-		"src" :"//iqiyi.com/v_19rrfwju20.html",
+		"src" :"https://www.iqiyi.com/v_19rrfwju20.html",
 		"title" :"飓风",
 		"subtitle" :"The Hurricane",
 		"description" : "[ ★★★★★ ] 一个黑人毛头小伙莱斯在旧书市无意中淘到了拳王“飓风”鲁本•卡特在狱中写的自传，并开始了对他的故事产生了兴趣。鲁本出生于贫寒家庭，幼年时嫉恶如仇，因此与当地的白人警察结怨.."
 	}, {
 		"id" :14,
-		"src" :"//v.qq.com/x/cover/r9umzdo0yjelfg1/n0030x2ucda.html",
+		"src" :"https://v.qq.com/x/cover/r9umzdo0yjelfg1/n0030x2ucda.html",
 		"title" :"绿皮书",
 		"subtitle" :"Green Book",
 		"description" : "[ ★★★★★ ] 一名黑人钢琴家，为前往种族歧视严重的南方巡演，找了一个粗暴的白人混混做司机。在一路开车南下的过程里，截然不同的两人矛盾不断，引发了不少争吵和笑料。但又在彼此最需要的时候.."
 	}, {
 		"id" :39,
-		"src" :"//v.qq.com/x/cover/cfing5ylyaar21h.html",
+		"src" :"https://v.qq.com/x/cover/cfing5ylyaar21h.html",
 		"title" :"触不可及",
 		"subtitle" :"Intouchables",
 		"description" : "[ ★★★★★ ] 翻拍自法国电影《无法触碰》。故事改编自真人真事，在一次跳伞事故后，富有的贵族下肢瘫痪，生活无法自理，因此他找了黑人青年来家里帮佣。这是一位底层出身的年轻人，刚从监狱出来.."
 	}, {
 		"id" :"40",
-		"src" :"//iqiyi.com/v_19rqq17jbc.html",
+		"src" :"https://www.iqiyi.com/v_19rqq17jbc.html",
 		"title" :"调音师",
 		"subtitle" :"Andhadhun",
 		"description" : "[ 年度反转佳作 ] 改编自2010年的同名法国高分悬疑短片。故事讲述了一直假装盲人的钢琴调音师阿卡什，在意外成为一起凶杀案的唯一“目击证人”后，所遭遇的种种出其不意的经历。影片故事波折惊奇，反转不断.."
 	}, {
 		"id" :41,
-		"src" :"//iqiyi.com/v_19rqts78j0.html",
+		"src" :"https://www.iqiyi.com/v_19rqts78j0.html",
 		"title" :"一个母亲的复仇",
 		"subtitle" :"Mom",
 		"description" : "[ 题材结尾好评 ] 本片改编自震惊印度的“德里黑公交案”。艾莉亚在一次派对活动后遭到强暴，面对凿凿证据，四名罪犯却被法庭判为无罪。艾莉亚的继母，戴维琪伤心欲绝，在走投无路后愤然决定亲手为女儿寻求正义.."
 	}, {
 		"id": "1+",
-		"src": "//baidu.com/s?wd=守法公民",
+		"src": "https://www.baidu.com/s?wd=守法公民",
 		"title": "守法公民",
 		"subtitle": "Law Abiding Citizen",
 		"description": "[ 私法制裁 ] 影片的主人公曾是居住在费城某小镇的一名研发人员，他认为由于有黑幕的交易，使得杀害他的妻子和女儿的其中一名谋杀者将被释放，所以他准备策划一次复仇，惩治那些谋杀者和幕后审判交易人.."
 	}, {
 		"id": 36,
-		"src": "//iqiyi.com/v_19rrmy4428.html",
+		"src": "https://www.iqiyi.com/v_19rrmy4428.html",
 		"title": "非法制裁",
 		"subtitle": "Death Sentence",
 		"description": "[ 私法制裁 ] 成功的事业、美丽的妻子、两个乖巧的儿子，尼克·休姆过着人人称羡的完美生活。大儿子布莱登更是尼克的骄傲，他不仅学业一流，还是个很可能成为“明日之星”的出色冰球选手。一天夜晚.."
 	}, {
 		"id" :34,
-		"src" :"//www.zxzj.me/video/408-1-1.html",
+		"src" :"https://www.zxzj.me/video/408-1-1.html",
 		"title" :"电锯惊魂",
 		"subtitle" :"Saw",
 		"description" : "[ 竖锯系列 ] 亚当渐渐从昏迷中苏醒过来，发现自己被锁在一间破旧的地下室内。地下室相对的另一个房间，还锁着一个不知所措的劳伦斯医生。两个人的中间竟然有一具满身血污的死尸，手中握着一把点三八手枪.."
 	}, {
 		"id" :19,
-		"src" :"//v.qq.com/x/cover/f8637674mcfvlhi.html",
+		"src" :"https://v.qq.com/x/cover/f8637674mcfvlhi.html",
 		"title" :"死寂",
 		"subtitle" :"Dead Silence",
 		"description" : "[ 恐怖悬疑片 ] 小镇拉文斯.法尔就流传着这样一个恐怖的童谣：小心来自玛丽.肖的凝视；她没有孩子，只有玩偶；如果你看到她，不要尖叫；否则她会扯开你的嘴巴撕掉你的舌头。这个小镇一直就在笼罩在这个童谣的诅咒之下.."
 	}, {
 		"id" :38,
-		"src" :"//v.youku.com/v_show/id_XNjY0MzIzNTA0.html",
+		"src" :"https://v.youku.com/v_show/id_XNjY0MzIzNTA0.html",
 		"title" :"潜伏",
 		"subtitle" :"Insidious",
 		"description" : "[ 恐怖悬疑片 ] 小在高中担任教师的乔什·莱姆波特和身为自由音乐人的妻子兰娜拥有一个幸福的五口之家。然而自他们乔迁新居之后，恐慌和不安便尾随而至。尚在襁褓中的女儿凯莉经常莫名大哭，次子福斯特对卧室充满恐惧.."
 	}, {
 		"id" :37,
-		"src" :"//baidu.com/s?wd=%E6%8B%9B%E9%AD%822",
+		"src" :"https://www.baidu.com/s?wd=%E6%8B%9B%E9%AD%822",
 		"title" :"招魂2",
 		"subtitle" :"The Conjuring2",
 		"description" : "[ 头皮发麻/虎躯一震 ] 故事发生在繁华的都市伦敦，佩吉是一名家境十分贫寒的单亲妈妈，住在破旧的老房子里，独自抚养着三个孩子珍妮特、玛格丽特和强尼.."
 	}, {
 		"id" :21,
-		"src" :"//v.qq.com/x/cover/1q3didjj314kwih/g0021kye2o2.html",
+		"src" :"https://v.qq.com/x/cover/1q3didjj314kwih/g0021kye2o2.html",
 		"title" :"万能钥匙",
 		"subtitle" :"The Skeleton Key",
 		"description" : "[ 恐怖悬疑片 ] 年轻的姑娘卡罗琳受雇于老妇人维奥莱特，前往她家照顾她卧病在床的丈夫本。维奥莱特的大房子坐落于以神秘习俗和宗教仪式闻名的地区，卡罗琳刚到这里就觉得阴森诡异。随着日子一天天过去.."
 	}, {
 		"id" :22,
-		"src" :"//iqiyi.com/v_19rrjreqe4.html",
+		"src" :"https://www.iqiyi.com/v_19rrjreqe4.html",
 		"title" :"鬼哭神嚎",
 		"subtitle" :"The Amityville Horror",
 		"description" : "[ 恐怖悬疑片 ] 1974年11月13日夜，美国纽约长岛猎鹿公园别墅区。笛福家23岁的儿子罗纳德（布兰顿·唐纳德森 Brendan Donaldson 饰）突然狂性大发，在夜深人静之时将一家六口人全部杀害。在被警方逮捕后.."
 	}, {
 		"id" :23,
-		"src" :"//iqiyi.com/v_19rrmy7ays.html",
+		"src" :"https://www.iqiyi.com/v_19rrmy7ays.html",
 		"title" :"电梯里的恶魔",
 		"subtitle" :"Devil",
 		"description" : "[ 人性探索 ] 一天上午，有人坠楼摔死在一辆货车上。负责调查的警探博登来到现场后发现第一现场并不在货车停靠的位置，而是在不远处的一栋大厦。与此同时，这栋大厦的一处电梯突然故障，悬停在20层附近.."
 	}, {
 		"id" :5,
-		"src" :"//iqiyi.com/v_19rrk0zjvw.html",
+		"src" :"https://www.iqiyi.com/v_19rrk0zjvw.html",
 		"title" :"后天",
 		"subtitle" :"The Day After Tomorrow",
 		"description" : "[ 必看灾难片 ] 气候学家杰克·霍尔在观察史前气候研究后指出，温室效应 带来的全球暖化将会引发地球空前灾难。杰克博士曾警告政府官员采取预防行动，但警告显然已经太晚。杰克·霍尔博士于是急告美国.."
 	}, {
 		"id" :18,
-		"src" :"//v.qq.com/x/cover/n53xf2uzatvw3m6.html",
+		"src" :"https://v.qq.com/x/cover/n53xf2uzatvw3m6.html",
 		"title" :"活埋",
 		"subtitle" :"Buried",
 		"description" : "[ 感受绝望 ] 在伊拉克的美国承包商保罗醒来的时候，发现周围一片黑暗什么都看不见。经过自己的不断摸索，发现手边只有一个打火机，一把小刀和一部手机，而自己仿佛是被关在了一口棺材中活埋在了沙漠的某处.."
 	}, {
 		"id": "45+",
-		"src": "//iqiyi.com/v_19rr962jz4.html",
+		"src": "https://www.iqiyi.com/v_19rr962jz4.html",
 		"title": "隧道",
 		"subtitle": "터널",
 		"description": "[ 人性灾难片 ] 汽车销售员李正洙结束工作赶赴女儿生日派对时，行经刚开通的河图隧道，突然一阵天摇地动，让他经历此生最孤立无援的三十五天，而此刻的他唯一能做的就是拨打119求救.."
 	}, {
 		"id" :17,
-		"src" :"//v.youku.com/v_show/id_XNTcxODY3NzM2.html",
+		"src" :"https://v.youku.com/v_show/id_XNTcxODY3NzM2.html",
 		"title" :"隔绝",
 		"subtitle" :"The Divide",
 		"description" : "[ 末世人性 ] 纽约市一场灾难性的核爆炸后，乔什、米奇、玛丽琳、萨姆、达尔文、伊娃、艾德里安、波比这8个陌生人躲进了一座公寓大楼的地下室中。突然一群身着核生化防护服的武装人员出现.."
 	}, {
 		"id" :16,
-		"src" :"//v.youku.com/v_show/id_XNTcxODY2MDIw.html",
+		"src" :"https://v.youku.com/v_show/id_XNTcxODY2MDIw.html",
 		"title" :"末日危途",
 		"subtitle" :"The Road",
 		"description" : "[ 经典灾难片 ] 这是一个发生人类文明大毁灭后的寓言故事，幸存下来的一对父子穿过寒冷的城市废墟、荒无人烟的沙漠不断地向南行走，希望到达温暖的海边，寻找到活下去的可能，寒冷、饥饿侵袭着他们.."
 	}, {
 		"id": 44,
-		"src": "//iqiyi.com/v_19rrhx25to.html",
+		"src": "https://www.iqiyi.com/v_19rrhx25to.html",
 		"title": "异形魔怪",
 		"subtitle": "Tremors",
 		"description": "[ 经典怪兽片 ] 在一个名为“完美”的宁静小镇上，米奇和死党巴斯特又度过了属于他们的平静一天。对于在这个无趣的小镇里从事着一份又一份没有前途，仅能糊口的工作这一事实，两个血气方刚的年轻人感到十分无奈和困扰.."
 	}, {
 		"id" :260,
-		"src" :"//v.qq.com/x/cover/gk11svuomdpsgl4.html",
+		"src" :"https://v.qq.com/x/cover/gk11svuomdpsgl4.html",
 		"title" :"火星救援",
 		"subtitle" :"The Martian",
 		"description" : "[ 火星科幻片 ] 在一次人类登陆火星的任务中，宇航员马克·沃特尼经历了一场恶劣的风暴后，与他的机组成员失联，所有人都认为他在这次任务中丧生。然而，马克却幸运地活了下来.."
 	}, {
 		"id" :43,
-		"src" :"//iqiyi.com/v_19rrnwwz2k.html",
+		"src" :"https://www.iqiyi.com/v_19rrnwwz2k.html",
 		"title" :"创：战纪",
 		"subtitle" :"TRON: Legacy",
 		"description" : "[ 科幻片 ] 20世纪80年代，电子软体天才凯文·弗林创建了英康公司，将人类带入一个全新的时代。可是在辉煌的时代开创不久后，凯文神秘失踪。在此之后，凯文年幼的儿子萨姆.."
 	}, {
 		"id" :42,
-		"src" :"//iqiyi.com/v_19rrnwwz2k.html",
+		"src" :"https://www.iqiyi.com/v_19rrnwwz2k.html",
 		"title" :"安德的游戏",
 		"subtitle" :"Ender's Gamen",
 		"description" : "[ 外星科幻片 ] 并不遥远的未来，来自外星系的异星蜓入侵地球，造成超过一千万人死亡。危难时刻，勇敢的队长瑞克汉姆阻挡了侵略者扩张的步伐。利用这有限宝贵的时间.."
 	}, {
 		"id" :26,
-		"src" :"//iqiyi.com/v_19rr4glpfo.html",
+		"src" :"https://www.iqiyi.com/v_19rr4glpfo.html",
 		"title" :"风语者",
 		"subtitle" :"Windtalkers",
 		"description" : "[ 战争片 ] 这是一部以二战中的太平洋战争为背景题材的影片。风中的语言，在战争中，指的是传递着无数秘密的电波。每个风语者都背负着高级军事机密。本·亚齐就是这样一个风语者.."
 	}, {
 		"id" :"8+",
-		"src" :"//iqiyi.com/v_19rrk3p5u8.html",
+		"src" :"https://www.iqiyi.com/v_19rrk3p5u8.html",
 		"title" :"黑鹰坠落",
 		"subtitle" :"Black Hawk Down",
 		"description" : "[ 战争片 ] 该片改编自一个真实的故事，故事发生在1993年10月3日，地点是在政局动荡的非洲国家索马里的首都：摩加迪沙，由美国陆军三角洲部队和游骑兵部队的120名特种精英.."
 	}, {
 		"id" :25,
-		"src" :"//v.qq.com/x/cover/jm7ingmp113qaqu/n0022ia98ao.html?ptag=iqiyi",
+		"src" :"https://v.qq.com/x/cover/jm7ingmp113qaqu/n0022ia98ao.html?ptag=iqiyi",
 		"title" :"血战钢锯岭",
 		"subtitle" :"Hacksaw Ridge",
 		"description" : "[ 战争片 ] 1945年，第二次世界大战接近尾声，作为邪恶轴心重要成员的日本，其嚣张态势已成强弩之末。是年，决定战局走向的冲绳岛战役拉开序幕，成千上万斗志昂扬的美国大兵被派往冲绳.."
 	}, {
 		"id" :29,
-		"src" :"//iqiyi.com/v_19rrk0zwys.html",
+		"src" :"https://www.iqiyi.com/v_19rrk0zwys.html",
 		"title" :"卢旺达饭店",
 		"subtitle" :"Hotel Rwanda",
 		"description" : "[ 战争片 ] 影片来源于一个真实的故事。保罗•卢斯赛伯吉纳在乱世中开了一家饭店，这家饭店在杀戮如麻的世界中，就像一个绿洲供人休憩，救人性命。事件源于两国元首的罹难.."
 	}, {
 		"id" :24,
-		"src" :"//iqiyi.com/v_19rrnpp9co.html",
+		"src" :"https://www.iqiyi.com/v_19rrnpp9co.html",
 		"title" :"拯救大兵瑞恩",
 		"subtitle" :"Saving Private Ryan",
 		"description" : "[ 战争片 ] 瑞恩是二战期间的美国伞兵，被困在了敌人后方。更不幸的是，他的三个兄弟全部在战争中死亡，如果他也遇难，家中的老母亲将无依无靠。美国作战总指挥部知道了这个情况援.."
 	}, {
 		"id" :27,
-		"src" :"//iqiyi.com/v_19rrnrea7k.html",
+		"src" :"https://www.iqiyi.com/v_19rrnrea7k.html",
 		"title" :"伸冤人",
 		"subtitle" :"The Equalizer",
 		"description" : "[ 私法制裁 ] 麦考尔是一名已经退役的黑色行动突击队队员，常年浸淫在充满了暴力和危险的生活中，麦考尔的内心早已经疲惫不堪，为了脱离组织，他大费周章伪造了自己已经死亡的假象.."
 	}, {
 		"id" :4,
-		"src" :"//iqiyi.com/v_19rrn4sn70.html",
+		"src" :"https://www.iqiyi.com/v_19rrn4sn70.html",
 		"title" :"疾速追杀",
 		"subtitle" :"John Wick",
 		"description" : "[ 私法制裁 ] 约翰·威克是一名退休的杀手，他的妻子罹患癌症已去世，家里就剩下他和妻子留下来的狗。就在威克刚刚开始适应生活的时候，一群以特拉索夫为首的 混混闯进他的家.."
 	}, {
 		"id" :30,
-		"src" :"//iqiyi.com/v_19rrjcjae8.html",
+		"src" :"https://www.iqiyi.com/v_19rrjcjae8.html",
 		"title" :"遗愿清单",
 		"subtitle" :"The Bucket List",
 		"description" : "[ 值得一看 ] 老富翁爱德华·科尔近年来在公立医院的私有化改造事业中获利颇丰，他为节省成本，规定病房“一房两床”的做法颇受非议，但性格强势的科尔不以为意，岂料他不久被检查出罹患癌症.."
 	}, {
 		"id" :31,
-		"src" :"//iqiyi.com/v_19rr7pqruw.html",
+		"src" :"https://www.iqiyi.com/v_19rr7pqruw.html",
 		"title" :"三个老枪手",
 		"subtitle" :"Going in Style",
 		"description" : "[ 爆米花 ] 故事讲述每天到银行确认有没有老人金进帐的3位老人，决定受够这一切，放手一搏、携手抢银行，但他们面临到一个关键问题，他们不太会用枪.."
 	}, {
 		"id" :35,
-		"src" :"//iqiyi.com/v_19rr7pqruw.html",
+		"src" :"https://www.iqiyi.com/v_19rr7pqruw.html",
 		"title" :"四兄弟",
 		"subtitle" :"Four Brothers",
 		"description" : "[ 四兄弟复仇 ] 慈祥的老妇人伊芙琳在一次超市劫案中不幸罹难，她的四个养子：鲍比、安格、杰克以及耶利米纷纷回到小镇，为母亲料理后事。原来，伊芙琳在年轻时热衷慈善.."
 	}, {
 		"id" :33,
-		"src" :"//iqiyi.com/v_19rrifky2y.html",
+		"src" :"https://www.iqiyi.com/v_19rrifky2y.html",
 		"title" :"127小时",
 		"subtitle" :"127 Hours",
 		"description" : "[ 极限运动 ] 美国登山爱好者在一座峡谷攀岩时，因右臂被石头压住被困5天5夜，为了逃生，他强忍剧痛，花了一个多小时的时间，先后将桡骨和尺骨折断.."
 	}, {
 		"id" :6,
-		"src" :"//iqiyi.com/v_19rrmy5sf4.html",
+		"src" :"https://www.iqiyi.com/v_19rrmy5sf4.html",
 		"title" :"忠犬八公的故事",
 		"subtitle" :"Hachi",
 		"description" : "[ 动物电影 ] 大学教授帕克在小镇车站上偶遇一只可怜的小秋田犬 ，它孤苦无依的身影惹起他的怜悯，虽然妻子极力反对，并想尽办法要把它送走，但看到丈夫和女儿对它无微不至的由衷喜爱.."
 	}, {
 		"id" :7,
-		"src" :"//iqiyi.com/v_19rrmy5sf4.html",
+		"src" :"https://www.iqiyi.com/v_19rrmy5sf4.html",
 		"title" :"一条狗的使命",
 		"subtitle" :"A dog's purpose",
 		"description" : "[ 动物电影 ] 一只叫贝利的狗狗被小男孩伊森和妈妈救下，从此跟他们生 活在一起，陪伴小主人成长、玩耍、恋爱，长大后的伊森去外地读大学，而贝利渐渐衰老离开人世.."
 	}, {
 		"id" :32,
-		"src" :"//iqiyi.com/v_19rrmy5sf4.html",
+		"src" :"https://www.iqiyi.com/v_19rrmy5sf4.html",
 		"title" :"丛林赤子心",
 		"subtitle" :"Benji the Hunted",
 		"description" : "[ 动物电影 ] 本片剧情是叙述灵犬Benji流落野外的故事，Benji发现有一只豹妈妈被猎人射杀，留下孤苦无依的四只小豹，Benji在恻隐之心的驱使下，顾不得自己远离家园.."
 	}, {
 		"id" :13,
-		"src" :"//iqiyi.com/v_19rqybn92k.html",
+		"src" :"https://www.iqiyi.com/v_19rqybn92k.html",
 		"title" :"少年的你",
 		"subtitle" :"Better Days",
 		"description" : "[ 校园反思 ] 陈念是一名即将参加高考的高三学生，同校女生胡晓蝶的跳楼自杀让她的生活陷入了困顿之中。胡晓蝶死后，陈念遭到了以魏莱为首的三人组的霸凌.."
@@ -409,67 +409,67 @@ jmovie = [{
 
 jtv = [{
 		"id" :21,
-		"src" :"//www.yyetss.com/detail-57714.html",
+		"src" :"https://www.yyetss.com/detail-57714.html",
 		"title" :"猎魔人",
 		"subtitle" :"美剧/Netflix",
 		"description" : "《猎魔人》改编自畅销的奇幻小说系列，讲述了一个关于命运和家庭的史诗故事。利维亚的杰洛特是一名独居的猎魔人，他努力在这个人类比野兽更邪恶的世界上寻得自己的一席之地.."
 	}, {
 		"id" :11,
-		"src" :"//www.yyetss.com/detail-557.html",
+		"src" :"https://www.yyetss.com/detail-557.html",
 		"title" :"行尸走肉【系列】",
 		"subtitle" :"美剧/AMC",
 		"description" : "镇治安官瑞克·格里姆斯在一次行动中遭受枪击，当他从昏迷中醒来时，发现小镇上阴气沉沉，死尸遍地。更为恐怖的是，有的死尸游走于街头巷尾，嗜血如命，早已化作恐怖的丧尸.."
 	}, {
 		"id" :10,
-		"src" :"//v.youku.com/v_show/id_XMTAyMDIyNzY4.html",
+		"src" :"https://v.youku.com/v_show/id_XMTAyMDIyNzY4.html",
 		"title" :"亮剑",
 		"subtitle" :"Drawing Sword",
 		"description" : "1937年7月7日，抗日战争爆发。129师386旅新1团团长李云龙，率部凭借过硬的战术战法，越战越勇，让敌人闻风丧胆。在与日本坂田联队的交战中，成功从正面突围并干掉了坂田.."
 	}, {
 		"id" :9,
-		"src" :"//iqiyi.com/v_19rrjea0fc.html",
+		"src" :"https://www.iqiyi.com/v_19rrjea0fc.html",
 		"title" :"雪豹",
 		"subtitle" :"Snow Leopard",
 		"description" : "1932年初，上海。1月28日夜，日军突然向上海闸北地区发起进攻，驻防上海的中国十九路军奋起反击，开始了著名的'一.二八'淞沪抗战。在通往大上海的咽喉要道--青云路阵地上.."
 	}, {
 		"id" :"5+",
-		"src" :"//v.youku.com/v_show/id_XMTE0OTk3MzEy.htm",
+		"src" :"https://v.youku.com/v_show/id_XMTE0OTk3MzEy.htm",
 		"title" :"爱情公寓",
 		"subtitle" :"共 5 部 / 1月12日",
 		"description" : "一幢并不奢华的公寓，两间普普通通的套房，住着七个不同背景，不同身份，不同理想的青年男女。就在这里，每天都发生着看似平常却又乐趣十足的幽默故事。时而搞笑、时而离奇.."
 	}, {
 		"id" :"3+",
-		"src" :"//www.bilibili.com/bangumi/media/md20117",
+		"src" :"https://www.bilibili.com/bangumi/media/md20117",
 		"title" :"家有儿女",
 		"subtitle" :"共 4 部",
 		"description" : "儿童编导夏东海离婚后带着儿子夏雨回国发展，与在国内长大的女儿夏雪团聚了。后来夏东海跟某医院护士长刘梅结婚了.."
 	}, {
 		"id" :4,
-		"src" :"//iqiyi.com/a_19rrk2hct9.html",
+		"src" :"https://www.iqiyi.com/a_19rrk2hct9.html",
 		"title" :"武林外传",
 		"subtitle" :"共 1 部 81集",
 		"description" : "以掌柜的佟湘玉（抠门至极的女店主，风情万种但心地善良，婆婆妈妈又十分鸡贼）为首的一个客栈班底，这其中有跑堂的白展堂（会点穴、有武功，是个盗贼，想改过自新，其实胆小如鼠.."
 	}, {
 		"id" :"1+",
-		"src" :"//www.bilibili.com/bangumi/media/md20711",
+		"src" :"https://www.bilibili.com/bangumi/media/md20711",
 		"title" :"铁齿铜牙纪晓岚",
 		"subtitle" :"共 4 部",
 		"description" : "清朝乾隆年间，天下呈现出一派祥和繁荣的景象，被后人称作“康乾盛世”。然而，表面上的国泰民安，掩饰不了各种日益激化的矛盾。乾隆是一个颇有作为、雷厉风行的君主.."
 	}, {
 		"id" :8,
-		"src" :"//www.bilibili.com/bangumi/play/ss20245",
+		"src" :"https://www.bilibili.com/bangumi/play/ss20245",
 		"title" :"布衣天子",
 		"subtitle" :"共 1 部 30集",
 		"description" : "大清盛世，乾隆年间，因与乾隆名字弘历同音、相貌相似、八面玲珑的江湖郎中洪立被太后选定为皇帝的替 身，保护皇帝安危。于是假皇帝五更上朝，夜半才休，苦不堪 言.."
 	}, {
 		"id" :6,
-		"src" :"//www.bilibili.com/bangumi/play/ss21032",
+		"src" :"https://www.bilibili.com/bangumi/play/ss21032",
 		"title" :"梦断紫禁城",
 		"subtitle" :"共 1 部 48集",
 		"description" : "该剧主要讲述乾隆四十年至六十年，陕西状元、监察御史王杰和军机大臣、上书房总师傅朱珪为民族和国家利益，不顾个人身家性命安危，与大贪官和珅进行殊死的斗争.."
 	}, {
 		"id" :7,
-		"src" :"//iqiyi.com/lib/m_200823914.html",
+		"src" :"https://www.iqiyi.com/lib/m_200823914.html",
 		"title" :"宰相刘罗锅",
 		"subtitle" :"共 1 部 40集",
 		"description" : "本故事发生在清朝末年，靖王爷为救爱女性命，不得不病急乱投医，找来了沧州的乡下郎中喜来乐。没想到被宫里太医王天和断为绝症的格格，喜来乐竟用奇招救活.."
