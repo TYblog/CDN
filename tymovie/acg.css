@@ -1,4 +1,39 @@
-.content-all-windows{overflow-y:visible!important}
+:root{
+    --theme-color: #eb6844;
+    --preset-c: #cccccc;
+    --preset-d: #dadada;
+    --preset-f: #ffffff;
+    --preset-fa: #fafafa;
+    --preset-s: #f5f5f5;
+    --preset-6: #666666;
+    --preset-8: #888888;
+    --preset-9: #949494;
+    --preset-4a: #4a4a4a;
+    --preset-3a: #3a3a3a;
+    --preset-2b: #2b2b2b;
+    --preset-link: #566d92;
+    --preset-okay: #4fc323;
+    --preset-okay-l: #f6fff0;
+    --preset-caution: #f9ac1d;
+    --preset-caution-l: #fffbeb;
+    --preset-alert: #f4222c;
+    --preset-alert-l: #fff1f0;
+    --size: 12;
+    --min-size: 12px;
+    --min-size-rem: 0.9rem;
+    --font-ms: "Microsoft YaHei","微软雅黑","Sans-Serif";
+    --font-serif: 'Source Han Serif SC','Source Han Serif','source-han-serif-sc',"Noto Serif",'PT Serif',"Microsoft YaHei",'SongTi SC',serif;
+}
+html,body{margin:0;padding:0;text-align:center;background:#fff;font:normal 16px/normal "Microsoft YaHei","微软雅黑","Microsoft JhengHei","Hiragino Sans GB","WenQuanYi Micro Hei",Arial,Helvetica,Lucida Grande,Tahoma,sans-serif;tap-highlight-color:transparent;-webkit-tap-highlight-color:transparent}
+a{text-decoration: none}
+.content-all-windows{overflow-y:visible!important;max-width:1102px;height:auto;margin:0 auto;padding:15px 15px 0;overflow-y:hidden;transition:all .5s ease;display:flex;position:relative;flex-flow:row nowrap;justify-content:space-between}
+.flexboxes{display:-ms-flexbox;display:-webkit-box;display:-moz-box;display:-webkit-flex;display:flex}
+.win-top:before{content:'';width:100%;height:100%;background:url('https://img.2broear.com/svg/digital_mask.svg') repeat center center /3px 3px;position:absolute;bottom:0;left:0;overflow:hidden;}
+.win-top{width:100%;height:auto;margin-bottom:18px;position:relative;overflow:hidden;}
+.win-top:after{content:'';width:150%;height:2.375rem;background-color:var(--preset-f);left:-25%;bottom:-1.875rem;border-radius:100%;position:absolute;}
+.win-top h5{color: var(--preset-f);height: auto;font-family: var(--font-serif);font-size: 2.33rem;margin: 10% auto;position: relative;display: inline-block;box-sizing: border-box;}
+.win-top h5 span{color: var(--preset-2b);;background-color:var(--preset-f);font-weight: lighter;}
+
 .win-top .counter{color:var(--preset-s);font-size:14px;position:relative;max-width:520px;margin:8% auto 6%;}
 .win-top .counter div{display:inline-block;margin:auto 35px;padding:15px 0}
 .win-top .counter div a:hover{color:var(--preset-f)}

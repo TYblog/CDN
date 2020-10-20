@@ -1,6 +1,6 @@
-var janime = [{
+var anime = [{
 		"id" :1,
-		"src" :"https://www.pan.baidu.com/s/1PIdOf4HkkI2Ak4UlNDWlPA",
+		"src" :"https://pan.baidu.com/s/1PIdOf4HkkI2Ak4UlNDWlPA",
 		"title" :"幽灵公主",
 		"subtitle" :"もののけ姫",
 		"description" : "提取码：4g95）为了拯救危难中的村民，阿斯达卡的右手中了凶煞神的诅咒。他卡只好离开亲人往西方流浪以寻找解除诅咒的方法。旅途中他遇到了由幻姬大人带领的.."
@@ -12,7 +12,7 @@ var janime = [{
 		"description" : "寻和爸爸妈妈一同驱车前往新家，在郊外的小路上不慎进入了神秘的隧道—他们去到了另外一个诡异世界一个中世纪的小镇。远处飘来食物的香味，.."
 	}, {
 		"id" :3,
-		"src" :"https://www.pan.baidu.com/s/1AV35KhyULaAuDeuaw0EhpA",
+		"src" :"https://pan.baidu.com/s/1AV35KhyULaAuDeuaw0EhpA",
 		"title" :"起风了",
 		"subtitle" :"宫 · 風立ちぬ",
 		"description" : "提取码：vwp2）那是一个动荡的年代，战争、饥饿、疾病、天灾，死神的阴影笼罩全球，却无法遮挡心头闪现的梦想和希望的光芒。平凡的日本少年堀越二郎 迷恋游弋长空的飞机.."
@@ -24,25 +24,25 @@ var janime = [{
 		"description" : "小月的母亲生病住院了，父亲带着她与四岁的妹妹小梅到乡间的居住。她们对那里的环境都感到十分新奇，也发现了很多有趣的事情。她们遇到了.."
 	}, {
 		"id" :5,
-		"src" :"https://www.baidu.com/s?wd=天空之城",
+		"src" :"https://www.1905.com/mdb/film/2092389/",
 		"title" :"天空之城",
 		"subtitle" :"天空の城ラピュタ",
 		"description" : "古老帝国拉比达是一座漂浮在空中的巨大的机器岛，传说那里已经无人居住，蕴藏着巨大的财富。因此，无论军方还是海盗，都在找寻着这座传说中的飞行岛。矿工帕克这天偶遇拉达比继承人希达.."
 	}, {
 		"id" :6,
-		"src" :"https://www.baidu.com/s?wd=风之谷",
+		"src" :"https://www.1905.com/mdb/film/48156/",
 		"title" :"风之谷",
 		"subtitle" :"風の谷のナウシカ",
 		"description" : "工业文明的高度发展，却最终带来灾难，一场为期7天的虫族毁灭战争摧毁了人类文明。一千年后，工业文明遗留下来的症结仍在困扰这个星球。带有强烈毒性的植物组成了令人望而却步的“腐海”森林.."
 	}, {
 		"id" :7,
-		"src" :"https://www.pan.baidu.com/s/1NOPzBoRQGIke43NqPaOJ4A",
+		"src" :"https://pan.baidu.com/s/1NOPzBoRQGIke43NqPaOJ4A",
 		"title" :"红猪",
 		"subtitle" :"宫 · 紅の豚",
 		"description" : "提取码：8kfr）罗森是一战中意大利空军的王牌飞行员，但却被施了魔法变了一头猪。虽然变了猪，但罗森还是继续他的老本行，成了一位赏金猎人，专门打击在亚地里亚海空域作恶的空中劫匪.."
 	}, {
 		"id" :8,
-		"src" :"https://www.pan.baidu.com/s/1eDczJhklFve5z78u5tlQhQ",
+		"src" :"https://pan.baidu.com/s/1eDczJhklFve5z78u5tlQhQ",
 		"title" :"哈尔的移动城堡",
 		"subtitle" :"ハウルの動く城",
 		"description" : "提取码：9a3i）继母因无力负担生活，将苏菲和她的两个妹妹都送到了制帽店去当学徒。两个妹妹很快先后就离开了制帽店去追寻各自的梦想，只有苏菲坚持了下来。一天，小镇旁边来了一座移动堡垒.."
@@ -66,7 +66,7 @@ var janime = [{
 		"description" : "晚唐年间，国师发动民众大量捕蛇。前去刺杀国师的白蛇意外失忆，被捕蛇村少年阿宣救下。为帮助少女找回记忆，两人踏上了一段冒险旅程。过程中两人感情迅速升温，但少女蛇妖的身份也逐渐显露.."
 	}],
 
-jcomic = [{
+comic = [{
 		"id" :5,
 		"src" :"https://www.bilibili.com/bangumi/play/ss1177",
 		"title" :"CLANNAD",
@@ -152,7 +152,7 @@ jcomic = [{
 		"description" : "远古时期，天地一片混沌，还没有完全成形，人世间一片混乱、骚动。人间界形成之初，人类还没有计时、计年的观念，人们总是忘记自己出生在哪一年，过了多少岁，完全没有辈分的观念.."
 	}],
 
-jmovie = [{
+movie = [{
 		"id" :10,
 		"src" :"https://www.iqiyi.com/v_19rra0h3wg.html",
 		"title" :"肖申克的救赎",
@@ -407,7 +407,7 @@ jmovie = [{
 		"description" : "[ 校园反思 ] 陈念是一名即将参加高考的高三学生，同校女生胡晓蝶的跳楼自杀让她的生活陷入了困顿之中。胡晓蝶死后，陈念遭到了以魏莱为首的三人组的霸凌.."
 	}],
 
-jtv = [{
+tv = [{
 		"id" :21,
 		"src" :"https://www.yyetss.com/detail-57714.html",
 		"title" :"猎魔人",
@@ -475,7 +475,7 @@ jtv = [{
 		"description" : "本故事发生在清朝末年，靖王爷为救爱女性命，不得不病急乱投医，找来了沧州的乡下郎中喜来乐。没想到被宫里太医王天和断为绝症的格格，喜来乐竟用奇招救活.."
 	}],
 
-jgame=[{
+game=[{
 		"id" :5,
 		"class" : "gs",
 		"gs_rating" : 8.5,
