@@ -62,7 +62,7 @@ $(function(){
 			if(jsonp[i].class == undefined){
 				$(obj).before('<div class="inbox flexboxes"><div class="inbox-headside flexboxes"><span class="author">'
 						+jsonp[i].subtitle+
-						'</span><img class="bg" src="images/'+key+'/'+jsonp[i].id+'.jpg" /><img src="images/'+key+'/'+jsonp[i].id+'.jpg" /></div><div class="inbox-aside"><span class="lowside-title"><h4><a href="'
+						'</span><img class="bg" src="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/images/'+key+'/'+jsonp[i].id+'.jpg" /><img src="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/images/'+key+'/'+jsonp[i].id+'.jpg" /></div><div class="inbox-aside"><span class="lowside-title"><h4><a href="'
 						+jsonp[i].src+
 						'" target="_blank">'
 						+jsonp[i].title+
@@ -72,7 +72,7 @@ $(function(){
 			}else{
 				$(obj).before('<div class="inbox flexboxes"><div class="inbox-headside flexboxes"><span class="author">'
 						+jsonp[i].subtitle+
-						'</span><img class="bg" src="images/'+key+'/'+jsonp[i].id+'.jpg" /><img src="images/'+key+'/'+jsonp[i].id+'.jpg" /></div><div class="inbox-aside"><span class="lowside-title"><h4><a href="https://store.steampowered.com/app/'
+						'</span><img class="bg" src="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/images/'+key+'/'+jsonp[i].id+'.jpg" /><img src="https://cdn.jsdelivr.net/gh/TYblog/CDN/tymovie/images/'+key+'/'+jsonp[i].id+'.jpg" /></div><div class="inbox-aside"><span class="lowside-title"><h4><a href="https://store.steampowered.com/app/'
 						+jsonp[i].src+
 						'" target="_blank">'
 						+jsonp[i].title+
